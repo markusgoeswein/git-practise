@@ -1,0 +1,4 @@
+This is the fourth line of text I'm adding to this document. 
+Cold and dry, but everything is in my favorite color.
+Mars is a very bleak planet for people with color blindness. 
+I'm starting to get the hang of git. 
