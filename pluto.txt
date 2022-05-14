@@ -1,0 +1,2 @@
+I have just resolved my first merge conflict. However, it was most likely not the ideal solution to this issue.
+
